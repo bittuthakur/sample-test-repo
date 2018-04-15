@@ -1,5 +1,8 @@
 package com.test;
 
+/*
+ * User class
+ */
 public class User {
 	private String userName;
 
